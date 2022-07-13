@@ -1,2 +1,0 @@
-# IDEA-TORASSA
-Primer entregable
